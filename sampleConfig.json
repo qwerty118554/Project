@@ -1,0 +1,19 @@
+{
+    "randSeed": 10,
+    "rowNum": 10,
+    "colNum": 10,
+    "randomWallRemovalPercent": 15,
+    "numItems": 10,
+    "maxWeight": 5,
+    "maxValue": 50,
+    "knapsackCapacity": 15,
+    "knapsackSolver": "recur",
+    "entrances": [[3,-1]],
+    "exits": [[-1,3]],
+    "pathFinder": "TaskC",
+    "solverEntranceIndex": 0,
+    "visualise": true,
+    "mazeFromFile": false,
+    "mazeFileName": "sampleMaze01.txt",
+    "fileOutput": "sampleConfig"
+}
